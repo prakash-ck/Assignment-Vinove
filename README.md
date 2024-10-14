@@ -1,5 +1,5 @@
-# location_tracking
-#Output
+# Output
+
 ![Uploading List.jpg…]()
 ![Uploading Map-Location.jpg…]()
 
